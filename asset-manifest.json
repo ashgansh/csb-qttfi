@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://benjaminshafii.github.io/csb-qttfi/static/css/main.69cd3885.chunk.css",
+    "main.js": "https://benjaminshafii.github.io/csb-qttfi/static/js/main.4e244045.chunk.js",
+    "main.js.map": "https://benjaminshafii.github.io/csb-qttfi/static/js/main.4e244045.chunk.js.map",
+    "runtime-main.js": "https://benjaminshafii.github.io/csb-qttfi/static/js/runtime-main.a7e13ba2.js",
+    "runtime-main.js.map": "https://benjaminshafii.github.io/csb-qttfi/static/js/runtime-main.a7e13ba2.js.map",
+    "static/js/2.71b43743.chunk.js": "https://benjaminshafii.github.io/csb-qttfi/static/js/2.71b43743.chunk.js",
+    "static/js/2.71b43743.chunk.js.map": "https://benjaminshafii.github.io/csb-qttfi/static/js/2.71b43743.chunk.js.map",
+    "index.html": "https://benjaminshafii.github.io/csb-qttfi/index.html",
+    "static/css/main.69cd3885.chunk.css.map": "https://benjaminshafii.github.io/csb-qttfi/static/css/main.69cd3885.chunk.css.map",
+    "static/js/2.71b43743.chunk.js.LICENSE.txt": "https://benjaminshafii.github.io/csb-qttfi/static/js/2.71b43743.chunk.js.LICENSE.txt",
+    "static/media/office.c5ac3b65.jpg": "https://benjaminshafii.github.io/csb-qttfi/static/media/office.c5ac3b65.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7e13ba2.js",
+    "static/js/2.71b43743.chunk.js",
+    "static/css/main.69cd3885.chunk.css",
+    "static/js/main.4e244045.chunk.js"
+  ]
+}
